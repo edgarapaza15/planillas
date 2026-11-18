@@ -1,0 +1,5 @@
+usuario: archivo
+password: archivo123$
+
+ip: 10.1.5.90
+
