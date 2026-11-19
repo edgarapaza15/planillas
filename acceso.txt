@@ -3,3 +3,6 @@ password: archivo123$
 
 ip: 10.1.5.90
 
+anydesk: 1212442917  TRANSPORTES
+contraseña: archivo123$
+
